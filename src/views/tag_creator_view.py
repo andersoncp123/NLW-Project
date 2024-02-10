@@ -3,7 +3,7 @@ from src.views.http_types.http_response import HttpResponse
 from src.controllers.tag_creator_controller import TagCreatorController
 
 class TagCreatorView:
-    ''''
+    '''
         responsability for intercting with HTTP
     '''
 
